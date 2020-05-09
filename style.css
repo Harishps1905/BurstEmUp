@@ -231,7 +231,7 @@ header p{
     }
     100%{
         bottom: 80%;
-        left: 93%;
+        left: 97%;
         transform: rotate(-40deg);
     }
 }
@@ -241,7 +241,7 @@ header p{
         left: 10%;
     }
     100%{
-        left: 93%;
+        left: 97%;
         transform: rotate(-20deg);
     }
 }
@@ -252,6 +252,6 @@ header p{
     }
     100%{
         bottom: 15%;
-        left: 93%;
+        left: 97%;
     }
 }
